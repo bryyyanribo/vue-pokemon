@@ -1,22 +1,24 @@
-# vue-pokemon
+# Vue Pokemon
 
-> A curated list of pokemons
+> A simple curated list of pokemons
 
-## Build Setup
+## Run Application
+`npm run dev`
 
-```bash
-# install dependencies
-$ npm install
+## Built With
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+* [Nuxt JS](https://nuxtjs.org/)
+* [Vuetify](https://vuetifyjs.com/en/)
+* [Pokemon API](https://pokemontcg.io/)
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+## TODO
+- [ ] Filter by Type
+- [ ] Filter by Subtypes
+- [ ] Filter by Supertypes
+- [ ] Find by HP
+- [ ] Mobile First Responsive
 
-# generate static project
-$ npm run generate
-```
+## Acknowledgments
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+* [Pokemon Types Icons](https://www.deviantart.com/bagleopard/art/Button-Designs-Pokemon-TCG-Energy-Symbols-370945629)
+
