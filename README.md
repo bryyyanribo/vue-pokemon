@@ -11,6 +11,9 @@
 * [Vuetify](https://vuetifyjs.com/en/)
 * [Pokemon API](https://pokemontcg.io/)
 
+## Snapshot
+![Home](https://i.imgur.com/mk77Z8S.png "Optional title")
+
 ## TODO
 - [ ] Filter by Type
 - [ ] Filter by Subtypes
